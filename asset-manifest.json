@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mehmadullahsheikh/Myrobo/static/css/main.a997db13.css",
+    "main.js": "/mehmadullahsheikh/Myrobo/static/js/main.effa17b7.js",
+    "static/js/453.8568ee60.chunk.js": "/mehmadullahsheikh/Myrobo/static/js/453.8568ee60.chunk.js",
+    "static/media/SEGA.woff": "/mehmadullahsheikh/Myrobo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/mehmadullahsheikh/Myrobo/index.html",
+    "main.a997db13.css.map": "/mehmadullahsheikh/Myrobo/static/css/main.a997db13.css.map",
+    "main.effa17b7.js.map": "/mehmadullahsheikh/Myrobo/static/js/main.effa17b7.js.map",
+    "453.8568ee60.chunk.js.map": "/mehmadullahsheikh/Myrobo/static/js/453.8568ee60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a997db13.css",
+    "static/js/main.effa17b7.js"
+  ]
+}
